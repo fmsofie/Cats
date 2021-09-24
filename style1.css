@@ -1,0 +1,62 @@
+body {
+	margin:0;
+}
+.menu {
+	text-align: center;
+	background: pink;
+	padding:40px;
+}
+.menu a {
+	margin-right: 10px;
+}
+.header{
+	background-image: url(img/background.jpg);
+	padding:200px 0;
+	text-align: center;
+	margin: 0;
+}
+h1{
+	padding-right: 1000px;
+}
+.list{
+	background: pink; 
+	margin:0;
+}
+h2{
+	margin: 0;
+	text-align: center;
+	color: red;
+	text-decoration: underline;
+}
+.li1{
+	font-weight: bold;
+	font-size: 20px;
+}
+li{
+	margin-bottom: 30px;
+}
+.li2{
+	font-style: italic;
+	font-size: 20px;
+}
+.Gallery{
+	padding: 50px 0px;
+}
+.images{
+	text-align: center;
+}
+.images img{
+	margin: 70px;
+}
+.g1{
+	border: 5px red solid;
+}
+.g2{
+	border: 5px blue solid;
+}
+.g3{
+	border: 5px green solid;
+}
+.g4{
+	border: 5px yellow solid;
+}
